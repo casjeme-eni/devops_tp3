@@ -1,4 +1,4 @@
-# Git Training
+# Git Training (Github Actions)
 
 Bienvenue dans ce repository de formation Git ! Ce projet vous permet de vous entraîner aux principales commandes de Git.
 
